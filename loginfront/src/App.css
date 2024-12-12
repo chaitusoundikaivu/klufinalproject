@@ -1,0 +1,40 @@
+/* App.css */
+
+/* General Styles */
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #711ee5;
+}
+h2{
+  color: #e2ebe300;
+}
+/* Navigation Bar */
+nav {
+  background-color: #d95353;
+  color: hsl(67, 95%, 53%);
+  padding: 10px;
+}
+
+nav a {
+  color: #fff;
+  text-decoration: none;
+  padding: 10px 20px;
+  border-radius: 5px;
+}
+
+
+
+/* Content Area */
+.content {
+  padding: 20px;
+}
+
+/* Specific Component Styles (Optional) */
+/* You can add specific styles for Login, Register, and Data components here */
+
+/* Example: */
+.login-form {
+  /* ... your specific styles for the login form ... */
+}
